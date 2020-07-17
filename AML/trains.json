@@ -1,0 +1,533 @@
+[
+  {
+    "TRAIN_ID": "3248",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Greenwich",
+    "SUMMARY": "5:55 PM to Greenwich",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:48:25"
+  },
+  {
+    "TRAIN_ID": "4349",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Crestwood",
+    "SUMMARY": "5:59 PM to Crestwood",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:44"
+  },
+  {
+    "TRAIN_ID": "8745",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Croton-Harmon",
+    "SUMMARY": "6:04 PM to Croton-Harmon",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:38"
+  },
+  {
+    "TRAIN_ID": "9546",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:04 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:27"
+  },
+  {
+    "TRAIN_ID": "9648",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:09 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:22"
+  },
+  {
+    "TRAIN_ID": "8841",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Poughkeepsie",
+    "SUMMARY": "6:11 PM to Poughkeepsie",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:46"
+  },
+  {
+    "TRAIN_ID": "8748",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:12 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:35"
+  },
+  {
+    "TRAIN_ID": "6345",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:14 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:34"
+  },
+  {
+    "TRAIN_ID": "6542",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "6:18 PM to New Haven",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:47:36"
+  },
+  {
+    "TRAIN_ID": "6746",
+    "BRANCH_ID": 4,
+    "BRANCH_NAME": "New Canaan",
+    "HEADSIGN": "New Canaan",
+    "SUMMARY": "6:18 PM to New Canaan",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "6547",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:20 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:41"
+  },
+  {
+    "TRAIN_ID": "9645",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Southeast",
+    "SUMMARY": "6:20 PM to Southeast",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:26"
+  },
+  {
+    "TRAIN_ID": "6348",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "6:21 PM to Stamford",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:16"
+  },
+  {
+    "TRAIN_ID": "9549",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "North White Plains",
+    "SUMMARY": "6:25 PM to North White Plains",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:41"
+  },
+  {
+    "TRAIN_ID": "4551",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "North White Plains",
+    "SUMMARY": "6:31 PM to North White Plains",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:04"
+  },
+  {
+    "TRAIN_ID": "9548",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:34 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:48:58"
+  },
+  {
+    "TRAIN_ID": "3350",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "6:35 PM to Stamford",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:30"
+  },
+  {
+    "TRAIN_ID": "8747",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Croton-Harmon",
+    "SUMMARY": "6:35 PM to Croton-Harmon",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:03"
+  },
+  {
+    "TRAIN_ID": "6544",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "6:38 PM to New Haven",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:33"
+  },
+  {
+    "TRAIN_ID": "8843",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Poughkeepsie",
+    "SUMMARY": "6:42 PM to Poughkeepsie",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:42"
+  },
+  {
+    "TRAIN_ID": "8750",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:42 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:49:47"
+  },
+  {
+    "TRAIN_ID": "6347",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:44 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:48:57"
+  },
+  {
+    "TRAIN_ID": "6753",
+    "BRANCH_ID": 4,
+    "BRANCH_NAME": "New Canaan",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "6:45 PM to Stamford",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9650",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:46 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:44"
+  },
+  {
+    "TRAIN_ID": "6549",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:50 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:47"
+  },
+  {
+    "TRAIN_ID": "4749",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Croton-Harmon",
+    "SUMMARY": "6:50 PM to Croton-Harmon",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:21"
+  },
+  {
+    "TRAIN_ID": "6350",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "6:52 PM to Stamford",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:43"
+  },
+  {
+    "TRAIN_ID": "9647",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Southeast",
+    "SUMMARY": "6:53 PM to Southeast",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:48:23"
+  },
+  {
+    "TRAIN_ID": "3546",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "6:53 PM to New Haven",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:20"
+  },
+  {
+    "TRAIN_ID": "8852",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "6:53 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:39"
+  },
+  {
+    "TRAIN_ID": "9551",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "North White Plains",
+    "SUMMARY": "6:54 PM to North White Plains",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:27"
+  },
+  {
+    "TRAIN_ID": "9958",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Southeast",
+    "SUMMARY": "6:57 PM to Southeast",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9550",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:04 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "8749",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Croton-Harmon",
+    "SUMMARY": "7:04 PM to Croton-Harmon",
+    "TRAIN_STAUS": "Delayed",
+    "LAST_UPDATED": "2020-07-16T15:20:20"
+  },
+  {
+    "TRAIN_ID": "4647",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Southeast",
+    "SUMMARY": "7:07 PM to Southeast",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:26"
+  },
+  {
+    "TRAIN_ID": "9652",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:09 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:42"
+  },
+  {
+    "TRAIN_ID": "8845",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Poughkeepsie",
+    "SUMMARY": "7:11 PM to Poughkeepsie",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:36"
+  },
+  {
+    "TRAIN_ID": "6846",
+    "BRANCH_ID": 5,
+    "BRANCH_NAME": "Danbury",
+    "HEADSIGN": "Danbury",
+    "SUMMARY": "7:11 PM to Danbury",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "8752",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:12 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "6349",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:14 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "4847",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Poughkeepsie",
+    "SUMMARY": "7:16 PM to Poughkeepsie",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:35"
+  },
+  {
+    "TRAIN_ID": "6546",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "7:17 PM to New Haven",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:58"
+  },
+  {
+    "TRAIN_ID": "6750",
+    "BRANCH_ID": 4,
+    "BRANCH_NAME": "New Canaan",
+    "HEADSIGN": "New Canaan",
+    "SUMMARY": "7:18 PM to New Canaan",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9649",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Southeast",
+    "SUMMARY": "7:20 PM to Southeast",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:25"
+  },
+  {
+    "TRAIN_ID": "6551",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:20 PM to Grand Central",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:48:59"
+  },
+  {
+    "TRAIN_ID": "6352",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "7:21 PM to Stamford",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9553",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "North White Plains",
+    "SUMMARY": "7:25 PM to North White Plains",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "3548",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "7:31 PM to New Haven",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:49:53"
+  },
+  {
+    "TRAIN_ID": "9552",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:34 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "8751",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Croton-Harmon",
+    "SUMMARY": "7:35 PM to Croton-Harmon",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "6548",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "New Haven",
+    "SUMMARY": "7:38 PM to New Haven",
+    "TRAIN_STAUS": "Late",
+    "LAST_UPDATED": "2020-07-16T17:50:28"
+  },
+  {
+    "TRAIN_ID": "8754",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:40 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "8847",
+    "BRANCH_ID": 1,
+    "BRANCH_NAME": "Hudson",
+    "HEADSIGN": "Poughkeepsie",
+    "SUMMARY": "7:42 PM to Poughkeepsie",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:05"
+  },
+  {
+    "TRAIN_ID": "6351",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:44 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "6757",
+    "BRANCH_ID": 4,
+    "BRANCH_NAME": "New Canaan",
+    "HEADSIGN": "Stamford",
+    "SUMMARY": "7:45 PM to Stamford",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9654",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:46 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9947",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "Wassaic",
+    "SUMMARY": "7:49 PM to Wassaic",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "9555",
+    "BRANCH_ID": 2,
+    "BRANCH_NAME": "Harlem",
+    "HEADSIGN": "North White Plains",
+    "SUMMARY": "7:49 PM to North White Plains",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T14:09:37"
+  },
+  {
+    "TRAIN_ID": "6553",
+    "BRANCH_ID": 3,
+    "BRANCH_NAME": "New Haven",
+    "HEADSIGN": "Grand Central",
+    "SUMMARY": "7:50 PM to Grand Central",
+    "TRAIN_STAUS": "On Time",
+    "LAST_UPDATED": "2020-07-16T17:50:12"
+  }
+]

@@ -1,0 +1,676 @@
+{
+  "GetStationsJsonResult": [
+    {
+      "BranchID": 6,
+      "StationName": "ANSONIA",
+      "StationID": 168,
+      "ZoneStationID": 292
+    },
+    {
+      "BranchID": 2,
+      "StationName": "APPALACHIAN TRAIL",
+      "StationID": 99,
+      "ZoneStationID": 167
+    },
+    {
+      "BranchID": 1,
+      "StationName": "ARDSLEY-ON-HUDSON",
+      "StationID": 24,
+      "ZoneStationID": 26
+    },
+    {
+      "BranchID": 1,
+      "StationName": "BEACON",
+      "StationID": 46,
+      "ZoneStationID": 56
+    },
+    {
+      "BranchID": 6,
+      "StationName": "BEACON FALLS",
+      "StationID": 170,
+      "ZoneStationID": 295
+    },
+    {
+      "BranchID": 2,
+      "StationName": "BEDFORD HILLS",
+      "StationID": 85,
+      "ZoneStationID": 152
+    },
+    {
+      "BranchID": 5,
+      "StationName": "BETHEL",
+      "StationID": 164,
+      "ZoneStationID": 278
+    },
+    {
+      "BranchID": 2,
+      "StationName": "BOTANICAL GARDEN",
+      "StationID": 57,
+      "ZoneStationID": 110
+    },
+    {
+      "BranchID": 5,
+      "StationName": "BRANCHVILLE",
+      "StationID": 162,
+      "ZoneStationID": 274
+    },
+    {
+      "BranchID": 1,
+      "StationName": "BREAKNECK RIDGE",
+      "StationID": 44,
+      "ZoneStationID": 52
+    },
+    {
+      "BranchID": 2,
+      "StationName": "BREWSTER",
+      "StationID": 91,
+      "ZoneStationID": 162
+    },
+    {
+      "BranchID": 3,
+      "StationName": "BRIDGEPORT",
+      "StationID": 140,
+      "ZoneStationID": 246
+    },
+    {
+      "BranchID": 2,
+      "StationName": "BRONXVILLE",
+      "StationID": 65,
+      "ZoneStationID": 122
+    },
+    {
+      "BranchID": 5,
+      "StationName": "CANNONDALE",
+      "StationID": 161,
+      "ZoneStationID": 272
+    },
+    {
+      "BranchID": 2,
+      "StationName": "CHAPPAQUA",
+      "StationID": 83,
+      "ZoneStationID": 148
+    },
+    {
+      "BranchID": 1,
+      "StationName": "COLD SPRING",
+      "StationID": 43,
+      "ZoneStationID": 54
+    },
+    {
+      "BranchID": 1,
+      "StationName": "CORTLANDT",
+      "StationID": 37,
+      "ZoneStationID": 43
+    },
+    {
+      "BranchID": 3,
+      "StationName": "COS COB",
+      "StationID": 118,
+      "ZoneStationID": 220
+    },
+    {
+      "BranchID": 2,
+      "StationName": "CRESTWOOD",
+      "StationID": 68,
+      "ZoneStationID": 126
+    },
+    {
+      "BranchID": 2,
+      "StationName": "CROTON FALLS",
+      "StationID": 90,
+      "ZoneStationID": 160
+    },
+    {
+      "BranchID": 1,
+      "StationName": "CROTON-HARMON",
+      "StationID": 33,
+      "ZoneStationID": 38
+    },
+    {
+      "BranchID": 5,
+      "StationName": "DANBURY",
+      "StationID": 165,
+      "ZoneStationID": 280
+    },
+    {
+      "BranchID": 3,
+      "StationName": "DARIEN",
+      "StationID": 128,
+      "ZoneStationID": 230
+    },
+    {
+      "BranchID": 6,
+      "StationName": "DERBY",
+      "StationID": 167,
+      "ZoneStationID": 290
+    },
+    {
+      "BranchID": 1,
+      "StationName": "DOBBS FERRY",
+      "StationID": 23,
+      "ZoneStationID": 24
+    },
+    {
+      "BranchID": 2,
+      "StationName": "DOVER PLAINS",
+      "StationID": 101,
+      "ZoneStationID": 170
+    },
+    {
+      "BranchID": 3,
+      "StationName": "EAST NORWALK",
+      "StationID": 133,
+      "ZoneStationID": 236
+    },
+    {
+      "BranchID": 3,
+      "StationName": "FAIRFIELD",
+      "StationID": 138,
+      "ZoneStationID": 244
+    },
+    {
+      "BranchID": 3,
+      "StationName": "FAIRFIELD METRO",
+      "StationID": 188,
+      "ZoneStationID": 245
+    },
+    {
+      "BranchID": 2,
+      "StationName": "FLEETWOOD",
+      "StationID": 64,
+      "ZoneStationID": 120
+    },
+    {
+      "BranchID": 2,
+      "StationName": "FORDHAM",
+      "StationID": 56,
+      "ZoneStationID": 108
+    },
+    {
+      "BranchID": 1,
+      "StationName": "GARRISON",
+      "StationID": 42,
+      "ZoneStationID": 50
+    },
+    {
+      "BranchID": 4,
+      "StationName": "GLENBROOK",
+      "StationID": 153,
+      "ZoneStationID": 260
+    },
+    {
+      "BranchID": 1,
+      "StationName": "GLENWOOD",
+      "StationID": 19,
+      "ZoneStationID": 18
+    },
+    {
+      "BranchID": 2,
+      "StationName": "GOLDENS BRIDGE",
+      "StationID": 88,
+      "ZoneStationID": 156
+    },
+    {
+      "BranchID": 1,
+      "StationName": "GRAND CENTRAL",
+      "StationID": 1,
+      "ZoneStationID": 1
+    },
+    {
+      "BranchID": 3,
+      "StationName": "GREEN'S FARMS",
+      "StationID": 136,
+      "ZoneStationID": 240
+    },
+    {
+      "BranchID": 3,
+      "StationName": "GREENWICH",
+      "StationID": 116,
+      "ZoneStationID": 218
+    },
+    {
+      "BranchID": 1,
+      "StationName": "GREYSTONE",
+      "StationID": 20,
+      "ZoneStationID": 20
+    },
+    {
+      "BranchID": 1,
+      "StationName": "HARLEM - 125TH ST.",
+      "StationID": 4,
+      "ZoneStationID": 2
+    },
+    {
+      "BranchID": 2,
+      "StationName": "HARLEM VALLEY-WINGDALE",
+      "StationID": 100,
+      "ZoneStationID": 168
+    },
+    {
+      "BranchID": 3,
+      "StationName": "HARRISON",
+      "StationID": 112,
+      "ZoneStationID": 212
+    },
+    {
+      "BranchID": 2,
+      "StationName": "HARTSDALE",
+      "StationID": 72,
+      "ZoneStationID": 130
+    },
+    {
+      "BranchID": 1,
+      "StationName": "HASTINGS-ON-HUDSON",
+      "StationID": 22,
+      "ZoneStationID": 22
+    },
+    {
+      "BranchID": 2,
+      "StationName": "HAWTHORNE",
+      "StationID": 80,
+      "ZoneStationID": 142
+    },
+    {
+      "BranchID": 1,
+      "StationName": "IRVINGTON",
+      "StationID": 25,
+      "ZoneStationID": 28
+    },
+    {
+      "BranchID": 2,
+      "StationName": "KATONAH",
+      "StationID": 86,
+      "ZoneStationID": 154
+    },
+    {
+      "BranchID": 3,
+      "StationName": "LARCHMONT",
+      "StationID": 110,
+      "ZoneStationID": 208
+    },
+    {
+      "BranchID": 1,
+      "StationName": "LUDLOW",
+      "StationID": 17,
+      "ZoneStationID": 14
+    },
+    {
+      "BranchID": 3,
+      "StationName": "MAMARONECK",
+      "StationID": 111,
+      "ZoneStationID": 210
+    },
+    {
+      "BranchID": 1,
+      "StationName": "MANITOU",
+      "StationID": 40,
+      "ZoneStationID": 48
+    },
+    {
+      "BranchID": 1,
+      "StationName": "MARBLE HILL",
+      "StationID": 11,
+      "ZoneStationID": 8
+    },
+    {
+      "BranchID": 2,
+      "StationName": "MELROSE",
+      "StationID": 54,
+      "ZoneStationID": 104
+    },
+    {
+      "BranchID": 5,
+      "StationName": "MERRITT 7",
+      "StationID": 158,
+      "ZoneStationID": 268
+    },
+    {
+      "BranchID": 3,
+      "StationName": "MILFORD",
+      "StationID": 145,
+      "ZoneStationID": 250
+    },
+    {
+      "BranchID": 1,
+      "StationName": "MORRIS HEIGHTS",
+      "StationID": 9,
+      "ZoneStationID": 4
+    },
+    {
+      "BranchID": 2,
+      "StationName": "MOUNT KISCO",
+      "StationID": 84,
+      "ZoneStationID": 150
+    },
+    {
+      "BranchID": 2,
+      "StationName": "MOUNT PLEASANT",
+      "StationID": 79,
+      "ZoneStationID": 140
+    },
+    {
+      "BranchID": 3,
+      "StationName": "MT VERNON EAST ",
+      "StationID": 105,
+      "ZoneStationID": 202
+    },
+    {
+      "BranchID": 2,
+      "StationName": "MT VERNON WEST",
+      "StationID": 62,
+      "ZoneStationID": 118
+    },
+    {
+      "BranchID": 6,
+      "StationName": "NAUGATUCK",
+      "StationID": 171,
+      "ZoneStationID": 296
+    },
+    {
+      "BranchID": 4,
+      "StationName": "NEW CANAAN",
+      "StationID": 157,
+      "ZoneStationID": 266
+    },
+    {
+      "BranchID": 1,
+      "StationName": "NEW HAMBURG",
+      "StationID": 49,
+      "ZoneStationID": 57
+    },
+    {
+      "BranchID": 3,
+      "StationName": "NEW HAVEN",
+      "StationID": 149,
+      "ZoneStationID": 252
+    },
+    {
+      "BranchID": 3,
+      "StationName": "NEW ROCHELLE",
+      "StationID": 108,
+      "ZoneStationID": 206
+    },
+    {
+      "BranchID": 3,
+      "StationName": "NH-STATE ST.",
+      "StationID": 151,
+      "ZoneStationID": 253
+    },
+    {
+      "BranchID": 3,
+      "StationName": "NOROTON HEIGHTS",
+      "StationID": 127,
+      "ZoneStationID": 228
+    },
+    {
+      "BranchID": 2,
+      "StationName": "NORTH WHITE PLAINS",
+      "StationID": 76,
+      "ZoneStationID": 134
+    },
+    {
+      "BranchID": 3,
+      "StationName": "OLD GREENWICH",
+      "StationID": 121,
+      "ZoneStationID": 224
+    },
+    {
+      "BranchID": 1,
+      "StationName": "OSSINING",
+      "StationID": 31,
+      "ZoneStationID": 36
+    },
+    {
+      "BranchID": 2,
+      "StationName": "PATTERSON",
+      "StationID": 97,
+      "ZoneStationID": 164
+    },
+    {
+      "BranchID": 2,
+      "StationName": "PAWLING",
+      "StationID": 98,
+      "ZoneStationID": 166
+    },
+    {
+      "BranchID": 1,
+      "StationName": "PEEKSKILL",
+      "StationID": 39,
+      "ZoneStationID": 46
+    },
+    {
+      "BranchID": 3,
+      "StationName": "PELHAM",
+      "StationID": 106,
+      "ZoneStationID": 204
+    },
+    {
+      "BranchID": 1,
+      "StationName": "PHILIPSE MANOR",
+      "StationID": 29,
+      "ZoneStationID": 32
+    },
+    {
+      "BranchID": 2,
+      "StationName": "PLEASANTVILLE",
+      "StationID": 81,
+      "ZoneStationID": 146
+    },
+    {
+      "BranchID": 3,
+      "StationName": "PORT CHESTER",
+      "StationID": 115,
+      "ZoneStationID": 216
+    },
+    {
+      "BranchID": 1,
+      "StationName": "POUGHKEEPSIE",
+      "StationID": 51,
+      "ZoneStationID": 58
+    },
+    {
+      "BranchID": 2,
+      "StationName": "PURDY'S",
+      "StationID": 89,
+      "ZoneStationID": 158
+    },
+    {
+      "BranchID": 5,
+      "StationName": "REDDING",
+      "StationID": 163,
+      "ZoneStationID": 276
+    },
+    {
+      "BranchID": 1,
+      "StationName": "RIVERDALE",
+      "StationID": 16,
+      "ZoneStationID": 12
+    },
+    {
+      "BranchID": 3,
+      "StationName": "RIVERSIDE",
+      "StationID": 120,
+      "ZoneStationID": 222
+    },
+    {
+      "BranchID": 3,
+      "StationName": "ROWAYTON",
+      "StationID": 129,
+      "ZoneStationID": 232
+    },
+    {
+      "BranchID": 3,
+      "StationName": "RYE",
+      "StationID": 114,
+      "ZoneStationID": 214
+    },
+    {
+      "BranchID": 1,
+      "StationName": "SCARBOROUGH",
+      "StationID": 30,
+      "ZoneStationID": 34
+    },
+    {
+      "BranchID": 2,
+      "StationName": "SCARSDALE",
+      "StationID": 71,
+      "ZoneStationID": 128
+    },
+    {
+      "BranchID": 6,
+      "StationName": "SEYMOUR",
+      "StationID": 169,
+      "ZoneStationID": 294
+    },
+    {
+      "BranchID": 3,
+      "StationName": "SOUTH NORWALK",
+      "StationID": 131,
+      "ZoneStationID": 234
+    },
+    {
+      "BranchID": 2,
+      "StationName": "SOUTHEAST",
+      "StationID": 94,
+      "ZoneStationID": 163
+    },
+    {
+      "BranchID": 3,
+      "StationName": "SOUTHPORT",
+      "StationID": 137,
+      "ZoneStationID": 242
+    },
+    {
+      "BranchID": 4,
+      "StationName": "SPRINGDALE",
+      "StationID": 154,
+      "ZoneStationID": 262
+    },
+    {
+      "BranchID": 1,
+      "StationName": "SPUYTEN DUYVIL",
+      "StationID": 14,
+      "ZoneStationID": 10
+    },
+    {
+      "BranchID": 3,
+      "StationName": "STAMFORD",
+      "StationID": 124,
+      "ZoneStationID": 226
+    },
+    {
+      "BranchID": 3,
+      "StationName": "STRATFORD",
+      "StationID": 143,
+      "ZoneStationID": 248
+    },
+    {
+      "BranchID": 4,
+      "StationName": "TALMADGE HILL",
+      "StationID": 155,
+      "ZoneStationID": 264
+    },
+    {
+      "BranchID": 1,
+      "StationName": "TARRYTOWN",
+      "StationID": 27,
+      "ZoneStationID": 30
+    },
+    {
+      "BranchID": 2,
+      "StationName": "TENMILE RIVER",
+      "StationID": 176,
+      "ZoneStationID": 172
+    },
+    {
+      "BranchID": 2,
+      "StationName": "TREMONT",
+      "StationID": 55,
+      "ZoneStationID": 106
+    },
+    {
+      "BranchID": 2,
+      "StationName": "TUCKAHOE",
+      "StationID": 66,
+      "ZoneStationID": 124
+    },
+    {
+      "BranchID": 1,
+      "StationName": "UNIVERSITY HEIGHTS",
+      "StationID": 10,
+      "ZoneStationID": 6
+    },
+    {
+      "BranchID": 2,
+      "StationName": "VALHALLA",
+      "StationID": 78,
+      "ZoneStationID": 136
+    },
+    {
+      "BranchID": 2,
+      "StationName": "WAKEFIELD",
+      "StationID": 61,
+      "ZoneStationID": 116
+    },
+    {
+      "BranchID": 2,
+      "StationName": "WASSAIC",
+      "StationID": 177,
+      "ZoneStationID": 174
+    },
+    {
+      "BranchID": 6,
+      "StationName": "WATERBURY",
+      "StationID": 172,
+      "ZoneStationID": 298
+    },
+    {
+      "BranchID": 3,
+      "StationName": "WEST HAVEN",
+      "StationID": 190,
+      "ZoneStationID": 251
+    },
+    {
+      "BranchID": 3,
+      "StationName": "WESTPORT",
+      "StationID": 134,
+      "ZoneStationID": 238
+    },
+    {
+      "BranchID": 2,
+      "StationName": "WHITE PLAINS",
+      "StationID": 74,
+      "ZoneStationID": 132
+    },
+    {
+      "BranchID": 2,
+      "StationName": "WILLIAMS BRIDGE",
+      "StationID": 58,
+      "ZoneStationID": 112
+    },
+    {
+      "BranchID": 5,
+      "StationName": "WILTON",
+      "StationID": 160,
+      "ZoneStationID": 270
+    },
+    {
+      "BranchID": 2,
+      "StationName": "WOODLAWN",
+      "StationID": 59,
+      "ZoneStationID": 114
+    },
+    {
+      "BranchID": 1,
+      "StationName": "YANKEES-E153 ST.",
+      "StationID": 622,
+      "ZoneStationID": 3
+    },
+    {
+      "BranchID": 1,
+      "StationName": "YONKERS",
+      "StationID": 18,
+      "ZoneStationID": 16
+    }
+  ]
+}
